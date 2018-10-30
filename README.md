@@ -3,6 +3,6 @@ This is a modified version of a Daniel Shiffman tutorial Color Classifier exampl
 Color data and original code are the below.
 https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/02_Color_Classifier
 
-This code has extra features:
-Added saving trained data and model using python.
+This code has extra features:<br>
+Added saving trained data and model using python.<br>
 Added loading model using a Tensorflowjs.
